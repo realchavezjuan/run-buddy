@@ -1,10 +1,10 @@
-# run-buddy
+# Run-Buddy Inc.
 
 ## Purpose
 
 ## Built With
 * HTML
-*CSS
+* CSS
 
 #Website
 https://realchavezjuan.github.io/run-buddy/
