@@ -7,7 +7,7 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-#Website
+# Website
 https://realchavezjuan.github.io/run-buddy/
 
 ## Contribution
